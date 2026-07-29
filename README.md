@@ -1,51 +1,81 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Aarnav&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aarnav</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aarnav
 
-<h3 align="center">
-Full Stack Developer • Data Analyst • Young Entrepreneur
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Developer;Future+Entrepreneur;Building+ULTRON;Always+Learning+Something+New" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Enthusiast;Cybersecurity+Learner;Future+Entrepreneur;Building+Cool+Things+Every+Day"/>
-</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aarnav446&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+</div>
 
 ---
 
-# 🌌 About Me
+# ⚡ About Me
 
-```bash
-> whoami
-
-Aarnav
-
-Student • Developer • Entrepreneur
-
-Interests:
-▸ Artificial Intelligence
-▸ Cybersecurity
-▸ Full Stack Development
-▸ Startups & Business
-
-Currently Learning:
-▸ AI & Machine Learning
-▸ Next.js
-▸ Data Science
-▸ Backend Development
+```yaml
+Name: Aarnav
+Age: Student
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Full Stack Development
+  - Data Science
+  - Open Source
+Goal:
+  Build products that people actually use.
+Current Mission:
+  Creating ULTRON from scratch.
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Current Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 ULTRON
+
+Building a complete AI ecosystem.
+
+✔ AI Agents
+
+✔ Model Marketplace
+
+✔ AI Workspace
+
+✔ Zero Budget Challenge
+
+</td>
+
+<td width="50%">
+
+## 🧠 StrokeSense AI
+
+AI powered Stroke Prediction Platform
+
+• FastAPI
+
+• Scikit Learn
+
+• Next.js
+
+• Supabase
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git,linux,vscode&perline=7"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,tailwind,fastapi,supabase,git,github,vscode,linux,firebase,mongodb"/>
+
 </p>
 
 ---
@@ -54,73 +84,101 @@ Currently Learning:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aarnav446&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarnav446&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnav446&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarnav446&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnav446&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Streak Stats
+# 🧠 Currently Learning
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Aarnav446&theme=transparent&hide_border=true"/>
-</p>
+```text
+████████████████████░░░░ 85%
+
+Machine Learning
+Deep Learning
+FastAPI
+Next.js
+AI Agents
+System Design
+```
 
 ---
 
-# 📈 Contribution Graph
+# ⚙️ My Workflow
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarnav446&theme=github-compact&hide_border=true&area=true"/>
-</p>
+```mermaid
+graph LR
+
+A[Coffee ☕]
+--> B[Research]
+
+B --> C[Design]
+
+C --> D[Code]
+
+D --> E[Debug]
+
+E --> F[Deploy]
+
+F --> G[Repeat]
+```
+
+---
+
+# 🌌 Developer Quote
+
+> "Code is temporary. Systems are forever."
+
+---
+
+# 🎯 2026 Goals
+
+- [ ] Build ULTRON
+- [ ] Publish AI Projects
+- [ ] Contribute to Open Source
+- [ ] Learn Advanced ML
+- [ ] Win Hackathons
+- [ ] Build a Startup
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aarnav446&theme=algolia&row=1&column=6&no-frame=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aarnav446&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
 
 ---
 
-# 🌱 Current Mission
-
-```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Fail();
-    Improve();
-    Repeat();
-}
-```
-
----
-
-# 🚀 Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🌐 Connect
+# 🌍 Connect
 
 <p align="center">
 
 <a href="https://github.com/Aarnav446">
-<img src="https://img.shields.io/badge/GitHub-Aarnav446-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aarnav446&style=for-the-badge&color=8b5cf6"/>
+
+### ⭐ Thanks for visiting ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
+
+</div>
