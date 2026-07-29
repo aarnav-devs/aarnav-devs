@@ -135,33 +135,6 @@ UI / UX              █████████████████░░�
 
 ---
 
-# `$ github_telemetry`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarnav446&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarnav446&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarnav446&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# `$ activity_monitor`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarnav446&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
 
 # `$ mission_log`
 
