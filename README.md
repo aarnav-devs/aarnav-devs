@@ -40,21 +40,33 @@ specialization:
   - Data Science
   - Full Stack Development
 
-languages:
+stack:
   - Python
-  - JavaScript
   - HTML
   - CSS
+  - JavaScript
+  - React
+  - Next.js
   - SQL
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Scikit-Learn
+  - Tailwind CSS
+  - Git
+  - GitHub
+  - Supabase
+  - Firebase
 
 currently_building:
   - AI Applications
-  - ML Models
-  - Full Stack Projects
+  - Machine Learning Models
+  - Full Stack Web Apps
   - Open Source Projects
 
-goal:
-  Build intelligent software that solves real-world problems.
+status: ONLINE
+
+goal: Build intelligent products that solve real-world problems.
 ```
 
 # `$ tree ~/repositories`
@@ -82,34 +94,18 @@ goal:
 # `$ load tech_stack`
 
 ```bash
-Loading development environment...
+Loading packages...
 
-✓ Python Runtime
-✓ Frontend Frameworks
-✓ Machine Learning Libraries
-✓ Database Drivers
-✓ Developer Tools
+█████████████████████████████ 100%
 
-Environment Ready.
+Packages Loaded Successfully.
 ```
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nextjs,tailwind,mysql,supabase,firebase,git,github,vscode,linux,figma,vercel&perline=8"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,sql"/>
-</p>
-
-### ⚛️ Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-### 🧠 AI • Machine Learning
-
-<p>
+<br><br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -119,27 +115,7 @@ Environment Ready.
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-</p>
-
-### 🗄️ Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase"/>
-
-</p>
-
-### ⚙️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel"/>
-
-</p>
-
 </div>
-
----
 
 # `$ system_resources`
 
