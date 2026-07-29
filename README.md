@@ -34,23 +34,28 @@ name: Aarnav
 
 role: Student Developer
 
-focus:
+specialization:
   - Artificial Intelligence
   - Machine Learning
-  - Full Stack Development
   - Data Science
+  - Full Stack Development
 
-currently_learning:
-  - AI Agents
-  - FastAPI
-  - Next.js
-  - System Design
+languages:
+  - Python
+  - JavaScript
+  - HTML
+  - CSS
+  - SQL
 
-mission:
-  Build products that people actually use.
+currently_building:
+  - AI Applications
+  - ML Models
+  - Full Stack Projects
+  - Open Source Projects
+
+goal:
+  Build intelligent software that solves real-world problems.
 ```
-
----
 
 # `$ tree ~/repositories`
 
@@ -76,11 +81,63 @@ mission:
 
 # `$ load tech_stack`
 
-<p align="center">
+```bash
+Loading development environment...
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,tailwind,fastapi,supabase,mongodb,firebase,git,github,linux,vscode&perline=8"/>
+✓ Python Runtime
+✓ Frontend Frameworks
+✓ Machine Learning Libraries
+✓ Database Drivers
+✓ Developer Tools
+
+Environment Ready.
+```
+
+<div align="center">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,sql"/>
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+### 🧠 AI • Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </p>
+
+### 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase"/>
+
+</p>
+
+### ⚙️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vercel"/>
+
+</p>
+
+</div>
 
 ---
 
