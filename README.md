@@ -32,7 +32,7 @@ SYSTEM STATUS : ONLINE
 ```yaml
 name: Aarnav
 
-role: Student Developer
+role: Python Developer
 
 specialization:
   - Artificial Intelligence
@@ -69,27 +69,7 @@ status: ONLINE
 goal: Build intelligent products that solve real-world problems.
 ```
 
-# `$ tree ~/repositories`
 
-```text
-📂 github/
-
-├── 🤖 AI Projects
-│
-├── 🌐 Full Stack Apps
-│
-├── 🧠 Machine Learning
-│
-├── 📱 Mobile Apps
-│
-├── 🏆 Hackathon Projects
-│
-├── 🔬 Experiments
-│
-└── 🚀 More Repositories...
-```
-
----
 
 # `$ load tech_stack`
 
